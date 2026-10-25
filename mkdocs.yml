@@ -13,6 +13,6 @@ nav:
   - Home: index.md
   - About Me: aboutme/index.md
   - Lectures:
-    - Lectures/intro2robotics/index.md
+    - Lectures/Intro2Robotics/index.md
 
 
