@@ -12,9 +12,7 @@ theme:
 nav:
   - Home: index.md
   - About Me: aboutme/index.md
-  - Portfolio Overview: portfolio-overview.md
   - Lectures:
     - Lectures/intro2robotics/index.md
-  - Assignments:
-      - A1: assignments/A01/index.md
+
 
