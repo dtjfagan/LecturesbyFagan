@@ -21,9 +21,9 @@ Today the roles flip. I design and build hardware for a living, but I am not a r
 | Time (min) | Activity |
 |---|---|
 | 0–10 | **Hook.** The robots on this page, and the challenge. |
-| 10–15 | **Form teams.** 16 teams of about 5. Two teams per theme. Claim your slide in the shared deck. |
+| 10–15 | **Form teams of 3–4.** Count off (see *How teams form* below). Your team number is your slide in the shared deck. |
 | 15–45 | **Investigate.** Read the fact sheet, research your theme, build one slide. |
-| 45–70 | **Teach-back.** One team per theme, about 3 minutes each. I ask questions. The partner team may add one point. |
+| 45–70 | **Teach-back.** One team per theme, drawn at random, about 3 minutes each. I ask questions. Other teams on that theme may each add one point. |
 | 70–75 | **Wrap.** I explain the robot back to you, using what you taught me. Quick exit poll. |
 
 ---
@@ -151,27 +151,47 @@ Newer voxels pass power and data from one unit to the next. Robots built from st
 
 ## Team worksheet: teach Terence your theme
 
+**Team deck:** [Open the Teach Me Robotics team deck](https://docs.google.com/presentation/d/1rtB_HWYR3vgVQjfgdPKjgGyzTZzczim0/edit) and go to your team's slide.
+
 You have 30 minutes to build one slide in the shared deck. Assume your audience is a fabrication expert who knows how to make parts but not how robots move.
 
 1. **What is it?** One plain-English sentence. Define any jargon you use.
 2. **How does it work mechanically?** One diagram or sketch. A phone photo of a hand sketch is fine.
-3. **Real robot example.** Name it, add an image, say what it uses.
+3. **Real robot example.** Pick any robot that is *not* on this page. Name it, add an image, say what it uses.
 4. **The tradeoff.** What do designers gain, and what do they give up?
-5. **CBA connection.** How does your theme show up, or fail to show up, in the robots on the fact sheet?
+5. **Voxel robot connection.** Use the voxel robot assigned to your team (see below). Where does your theme show up in it, or fail to show up?
 6. **Your question for Terence.** What should a fabricator understand about your theme?
+
+### How teams form
+
+1. Count the room, divide by 4, and round up. That is the number of teams.
+2. Count off from 1 up to that number. Your number is your team.
+3. Your theme is your team number, starting over after 8: Team 9 gets Theme 1, Team 10 gets Theme 2, and so on.
+4. Your voxel robot for prompt 5 rotates by team number:
+    - **BILL-E:** Teams 1, 4, 7, 10, 13, 16, 19, 22, 25
+    - **ARMADAS:** Teams 2, 5, 8, 11, 14, 17, 20, 23
+    - **MILAbot:** Teams 3, 6, 9, 12, 15, 18, 21, 24
+5. Find your team's slide in the shared deck: **[Teach Me Robotics team deck](https://docs.google.com/presentation/d/1rtB_HWYR3vgVQjfgdPKjgGyzTZzczim0/edit)**
+
+| Students | Teams | Team size | Teams per theme |
+|---|---|---|---|
+| 40 | 10 | 4 | 1–2 |
+| 60 | 15 | 4 | 1–2 |
+| 80 | 20 | 4 | 2–3 |
+| 100 | 25 | 4 | 3–4 |
 
 ### Themes
 
 | # | Theme | Teams | Starter question |
 |---|---|---|---|
-| 1 | Actuation | 1A, 1B | If you were choosing how to power a robot that carries parts across a structure all day, what would you weigh, and what would you sacrifice? |
-| 2 | Transmissions | 2A, 2B | Where should precision come from: the motor, the gears, or the structure the robot walks on? Make the case for your choice. |
-| 3 | Linkages and kinematics | 3A, 3B | What happens to a robot's design as you add or remove joints? Where is the sweet spot between simple and capable, and how would you find it? |
-| 4 | End effectors | 4A, 4B | Should you design the robot around the parts or the parts around the robot? What does each choice make easy, and what does it make hard? |
-| 5 | Locomotion | 5A, 5B | Wheels, legs, or inchworm: how does the ground a robot moves on shape the way it moves? What would change if that ground were moving, unfinished, or in space? |
-| 6 | Structures and materials | 6A, 6B | Why build something big out of many small pieces instead of one large one? Where does that idea win, and where does it fail? |
-| 7 | Compliance and soft robotics | 7A, 7B | Engineers usually fight "slop" in a machine. When might building flexibility in on purpose make a robot better, and what does it cost? |
-| 8 | Robots that build | 8A, 8B | Nature builds organisms far larger than any single cell. What could robot builders borrow from biology, and what might never transfer? |
+| 1 | Actuation | 1, 9, 17, 25 | If you were choosing how to power a robot that carries parts across a structure all day, what would you weigh, and what would you sacrifice? |
+| 2 | Transmissions | 2, 10, 18 | Where should precision come from: the motor, the gears, or the structure the robot walks on? Make the case for your choice. |
+| 3 | Linkages and kinematics | 3, 11, 19 | What happens to a robot's design as you add or remove joints? Where is the sweet spot between simple and capable, and how would you find it? |
+| 4 | End effectors | 4, 12, 20 | Should you design the robot around the parts or the parts around the robot? What does each choice make easy, and what does it make hard? |
+| 5 | Locomotion | 5, 13, 21 | Wheels, legs, or inchworm: how does the ground a robot moves on shape the way it moves? What would change if that ground were moving, unfinished, or in space? |
+| 6 | Structures and materials | 6, 14, 22 | Why build something big out of many small pieces instead of one large one? Where does that idea win, and where does it fail? |
+| 7 | Compliance and soft robotics | 7, 15, 23 | Engineers usually fight "slop" in a machine. When might building flexibility in on purpose make a robot better, and what does it cost? |
+| 8 | Robots that build | 8, 16, 24 | Nature builds organisms far larger than any single cell. What could robot builders borrow from biology, and what might never transfer? |
 
 ---
 
