@@ -39,25 +39,57 @@ I was enthralled when I first saw these voxel systems in person at the MIT Cente
       <figcaption>Me at the MIT Center for Bits and Atoms voxel exhibit, FAB26 Boston. Behind me: go-karts and a table built from voxels.</figcaption>
     </figure>
     <figure>
+      <img src="images/voxel-kart-selfie.jpg" alt="Terence Fagan beside a go-kart whose frame is built from black voxels" loading="lazy">
+      <figcaption>Next to a drivable go-kart. Its chassis is a voxel lattice.</figcaption>
+    </figure>
+    <figure>
       <img src="images/voxel-assembly-systems.jpg" alt="Voxel Assembly Systems sign beside two robots working on top of a wood and black voxel bridge" loading="lazy">
-      <figcaption>Voxel Assembly Systems: two assembler robots standing on the bridge they are building.</figcaption>
+      <figcaption>The Voxel Assembly Systems display: two assembler robots standing on the bridge they are building.</figcaption>
+    </figure>
+    <figure>
+      <img src="images/voxel-bridge-robots.jpg" alt="Two assembler robots standing on top of a bridge built from wood and black voxels" loading="lazy">
+      <figcaption>The bridge up close. The robots stand on the structure itself; there is no gantry or crane around it.</figcaption>
+    </figure>
+    <figure>
+      <img src="images/voxel-robot-closeup.jpg" alt="Close-up of a voxel assembly robot with motors, belts, and gripper feet on a black lattice" loading="lazy">
+      <figcaption>An assembler robot up close: motors, belt drives, and feet that grip the lattice. Look for the actuators and transmissions.</figcaption>
+    </figure>
+    <figure>
+      <img src="images/voxel-table-robots.jpg" alt="Assembler robots displayed on a table built from black voxels" loading="lazy">
+      <figcaption>Assembler robots on display atop a table made of the same black voxels they place.</figcaption>
     </figure>
     <figure>
       <img src="images/voxel-black-lattice.jpg" alt="Close-up of a black lattice block made of interlocking voxels" loading="lazy">
-      <figcaption>Close-up of black lattice voxels. Each cell is light and open, yet the assembled block is stiff.</figcaption>
+      <figcaption>Black lattice voxels. Each cell is light and open, yet the assembled block is stiff.</figcaption>
+    </figure>
+    <figure>
+      <img src="images/voxel-kart-wood.jpg" alt="Go-kart with a frame of wood and black voxels, off-road tires, and a steering wheel" loading="lazy">
+      <figcaption>A go-kart chassis built from wood and black voxels, with standard wheels and steering bolted on.</figcaption>
+    </figure>
+    <figure>
+      <img src="images/voxel-kart-motor.jpg" alt="Go-kart with a black and steel voxel frame, electric motor, and steering column" loading="lazy">
+      <figcaption>A second kart with a black and steel voxel frame, carrying an electric motor and steering.</figcaption>
     </figure>
     <figure>
       <img src="images/voxel-white-bench.jpg" alt="White 3D-printed voxels assembled into a bench-like structure on two legs" loading="lazy">
       <figcaption>White voxels assembled into a bench. The same small part repeats to make legs, span, and deck.</figcaption>
     </figure>
     <figure>
+      <img src="images/voxel-sustainable-arch.jpg" alt="White voxel arch, bench, and column next to a Sustainable Voxel Construction sign" loading="lazy">
+      <figcaption>Sustainable Voxel Construction: CBA's partnership with Bhutan's Druk Holding and Investments and the Jigme Namgyel Wangchuck Super Fablab.</figcaption>
+    </figure>
+    <figure>
       <img src="images/voxel-wall-arch.jpg" alt="A voxel wall with a doorway, framing a tall column built from wooden voxels" loading="lazy">
       <figcaption>A voxel wall and doorway framing a tall column of wooden voxels. Different materials, same building logic.</figcaption>
+    </figure>
+    <figure>
+      <img src="images/voxel-wall-room.jpg" alt="A room-sized structure of white voxel walls and a wooden voxel frame" loading="lazy">
+      <figcaption>A room-sized enclosure: white voxel walls joined to a wooden voxel frame.</figcaption>
     </figure>
   </div>
   <button class="ss-btn ss-prev" type="button" aria-label="Previous photo">&#8249;</button>
   <button class="ss-btn ss-next" type="button" aria-label="Next photo">&#8250;</button>
-  <div class="ss-count" aria-live="polite">1 / 5</div>
+  <div class="ss-count" aria-live="polite">1 / 13</div>
 </div>
 
 *Photos: Terence Fagan.*
