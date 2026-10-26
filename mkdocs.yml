@@ -4,7 +4,8 @@ site_description: Lecture portfolio
 theme:
   name: material
   palette:
-    primary: red
+    primary: custom
+    accent: custom
   features:
     - navigation.instant
     - navigation.tracking

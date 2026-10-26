@@ -1,12 +1,45 @@
-/* ---------- Faint engineering-grid background (light + dark) ---------- */
-:root { --grid-line: rgba(0, 0, 0, 0.06); --grid-size: 32px; }
-[data-md-color-scheme="slate"] { --grid-line: rgba(255, 255, 255, 0.06); }
-.md-main {
-  background-image:
-    linear-gradient(var(--grid-line) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
-  background-size: var(--grid-size) var(--grid-size);
+/* ---------- Engineering-paper theme (green) ---------- */
+:root {
+  /* Header, links, buttons */
+  --md-primary-fg-color:        #2f6b4f;   /* engineering-paper green, dark enough for white header text */
+  --md-primary-fg-color--light: #4d8a6c;
+  --md-primary-fg-color--dark:  #24533d;
+  --md-primary-bg-color:        #ffffff;
+  --md-accent-fg-color:         #3a8a5f;
+  --md-typeset-a-color:         #2f6b4f;
+
+  /* Paper */
+  --paper-bg:    #eef5e4;                  /* pale green sheet */
+  --grid-minor:  rgba(76, 140, 110, 0.16); /* fine lines */
+  --grid-major:  rgba(76, 140, 110, 0.38); /* every 5th line */
+  --grid-step:   14px;                     /* minor square */
+  --grid-major-step: 70px;                 /* 5 x minor */
 }
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #4d8a6c;
+  --md-typeset-a-color:  #8fd1ad;
+  --paper-bg:   var(--md-default-bg-color);
+  --grid-minor: rgba(143, 209, 173, 0.06);
+  --grid-major: rgba(143, 209, 173, 0.14);
+}
+
+/* Paper background with minor + major grid */
+.md-main {
+  background-color: var(--paper-bg);
+  background-image:
+    linear-gradient(var(--grid-major) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-major) 1px, transparent 1px),
+    linear-gradient(var(--grid-minor) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-minor) 1px, transparent 1px);
+  background-size:
+    var(--grid-major-step) var(--grid-major-step),
+    var(--grid-major-step) var(--grid-major-step),
+    var(--grid-step) var(--grid-step),
+    var(--grid-step) var(--grid-step);
+}
+
+/* Tables sit on solid paper so text stays readable over the grid */
+.md-typeset table:not([class]) { background-color: var(--md-default-bg-color); }
 
 /* ---------- Photo slideshow ---------- */
 .slideshow { position: relative; margin: 1.5em 0; }
