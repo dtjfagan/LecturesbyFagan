@@ -92,6 +92,16 @@ Instead of making a large machine in one piece, build it from many small, identi
 - Built a shed-sized shelter from 256 voxels in about 100 hours.
 - Voxels join with genderless, reversible fasteners held in each face, driven by the robot, and preloading the joint.
 
+<div style="position:relative; padding-top:56.25%; margin:1em 0 0.4em;">
+  <iframe src="https://www.youtube-nocookie.com/embed/AqAfCX4Razs"
+          style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+          allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          title="NASA Ames Space Robots Assembling Structures - ARMADAS"></iframe>
+</div>
+
+*Video: [NASA Ames Space Robots Assembling Structures - ARMADAS](https://www.youtube.com/watch?v=AqAfCX4Razs) (YouTube)*
+
 ### Robot 3: MILAbot (MIT CBA, 2026)
 
 ![MILAbot inchworm robot placing voxels](images/milabot.jpg)
