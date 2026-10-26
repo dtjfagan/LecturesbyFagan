@@ -24,7 +24,7 @@ Today the roles flip. I design and build hardware for a living, but I am not a r
 | 10–15 | **Form teams of 3–4.** Count off (see *How teams form* below). Your team number is your slide in the shared deck. |
 | 15–45 | **Investigate.** Read the fact sheet, research your theme, build one slide. |
 | 45–70 | **Teach-back.** One team per theme, drawn at random, about 3 minutes each. I ask questions. Other teams on that theme may each add one point. |
-| 70–75 | **Wrap.** I explain the robot back to you, using what you taught me. Quick exit poll. |
+| 70–75 | **Wrap.** I explain the robot back to you, using what you taught me. Then the [exit poll](#exit-poll). |
 
 ---
 
@@ -209,6 +209,25 @@ You have 30 minutes to build one slide in the shared deck. Assume your audience 
 | 6 | Structures and materials | 6, 14, 22 | Why build something big out of many small pieces instead of one large one? Where does that idea win, and where does it fail? |
 | 7 | Compliance and soft robotics | 7, 15, 23 | Engineers usually fight "slop" in a machine. When might building flexibility in on purpose make a robot better, and what does it cost? |
 | 8 | Robots that build | 8, 16, 24 | Nature builds organisms far larger than any single cell. What could robot builders borrow from biology, and what might never transfer? |
+
+---
+
+## Exit poll
+
+<div class="deck-panel">
+  <div class="deck-cta">
+    <p class="deck-eyebrow">Last 5 minutes</p>
+    <p class="deck-title">Tell me what you learned, and what another team taught you.</p>
+    <a class="deck-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSeX3OluMiBGdhYqRlrgUnW6IXZpUCGEHOhiROvT6Dw78UxyzA/viewform" target="_blank" rel="noopener">Open the exit poll &#8599;</a>
+    <p class="deck-note">Opens in a new tab. About 2 minutes, 3–4 short questions.</p>
+  </div>
+  <div class="deck-qrs">
+    <figure class="deck-qr">
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSeX3OluMiBGdhYqRlrgUnW6IXZpUCGEHOhiROvT6Dw78UxyzA/viewform" target="_blank" rel="noopener"><img src="images/qr-exit-poll.png" alt="QR code linking to the exit poll"></a>
+      <figcaption>Exit poll</figcaption>
+    </figure>
+  </div>
+</div>
 
 ---
 
