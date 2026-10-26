@@ -110,3 +110,22 @@
   margin-top: 0.35em; font-size: 0.7rem; font-weight: 700; color: var(--md-primary-fg-color);
 }
 @media (max-width: 30em) { .deck-qrs { width: 100%; justify-content: center; } }
+
+/* ---------- About Me hero ---------- */
+.about-hero {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 1.2rem 1.8rem;
+  margin: 1em 0 1.5em; padding: 1.2rem;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-primary-fg-color--light); border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(36, 83, 61, 0.08);
+}
+.md-typeset .about-hero img {
+  width: 15rem; max-width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;
+}
+.about-hero-text { flex: 1 1 16rem; min-width: 0; }
+.md-typeset .about-hero-text p { margin: 0 0 0.6em; }
+.md-typeset .about-role { font-weight: 700; line-height: 1.4; }
+.md-typeset .about-quote {
+  font-style: italic; color: var(--md-default-fg-color--light);
+  border-left: 3px solid var(--md-primary-fg-color); padding-left: 0.8em;
+}
