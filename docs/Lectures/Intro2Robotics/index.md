@@ -151,7 +151,7 @@ Newer voxels pass power and data from one unit to the next. Robots built from st
 
 ## Team worksheet: teach Terence your theme
 
-**Team deck:** [Open the Teach Me Robotics team deck](https://docs.google.com/presentation/d/1rtB_HWYR3vgVQjfgdPKjgGyzTZzczim0/edit) and go to your team's slide.
+**Team deck:** <a href="https://docs.google.com/presentation/d/1rtB_HWYR3vgVQjfgdPKjgGyzTZzczim0/edit" target="_blank" rel="noopener">Open the Teach Me Robotics team deck</a> and go to your team's slide.
 
 You have 30 minutes to build one slide in the shared deck. Assume your audience is a fabrication expert who knows how to make parts but not how robots move.
 
@@ -171,7 +171,7 @@ You have 30 minutes to build one slide in the shared deck. Assume your audience 
     - **BILL-E:** Teams 1, 4, 7, 10, 13, 16, 19, 22, 25
     - **ARMADAS:** Teams 2, 5, 8, 11, 14, 17, 20, 23
     - **MILAbot:** Teams 3, 6, 9, 12, 15, 18, 21, 24
-5. Find your team's slide in the shared deck: **[Teach Me Robotics team deck](https://docs.google.com/presentation/d/1rtB_HWYR3vgVQjfgdPKjgGyzTZzczim0/edit)**
+5. Find your team's slide in the shared deck: <strong><a href="https://docs.google.com/presentation/d/1rtB_HWYR3vgVQjfgdPKjgGyzTZzczim0/edit" target="_blank" rel="noopener">Teach Me Robotics team deck</a></strong>
 
 | Students | Teams | Team size | Teams per theme |
 |---|---|---|---|
