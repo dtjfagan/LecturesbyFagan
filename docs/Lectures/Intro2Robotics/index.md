@@ -6,6 +6,14 @@ Today the roles flip. I design and build hardware for a living, but I am not a r
 
 > **How can a small robot build something larger than itself? I don't know. Teach me.**
 
+<div style="position:relative; padding-top:56.25%; margin:1.5em 0;">
+  <iframe src="https://player.vimeo.com/video/1188051754?fl=pl&amp;fe=vl"
+          style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen
+          title="Teach Me Robotics: introduction video"></iframe>
+</div>
+
 ---
 
 ## Session plan
