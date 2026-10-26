@@ -141,4 +141,21 @@ You have 30 minutes to build one slide in the shared deck. Assume your audience 
 - [NASA: ARMADAS project](https://www.nasa.gov/directorates/spacetech/game_changing_development/projects/armadas)
 - [Jenett et al. (2019), IEEE Robotics and Automation Letters (PDF)](https://bej.pages.cba.mit.edu/home/19-0514_.pdf)
 
+### Further reading: academic articles
+
+Start with the one tagged for your theme. You don't need to read the whole paper; the abstract, figures, and conclusion are enough for today.
+
+| Robot / topic | Article | Best for |
+|---|---|---|
+| Voxels (foundation) | Cheung, K. C., & Gershenfeld, N. (2013). [Reversibly assembled cellular composite materials](https://cba.mit.edu/docs/papers/13.09.Science.pdf). *Science*, 341, 1219–1221. | Structures and materials |
+| BILL-E | Jenett, B., Abdel-Rahman, A., Cheung, K., & Gershenfeld, N. (2019). [Material-robot system for assembly of discrete cellular structures](https://cba.mit.edu/docs/papers/19.07.materialrobot.pdf). *IEEE Robotics and Automation Letters*. | Locomotion, Linkages, End effectors |
+| Robots building robots | Abdel-Rahman, A., Cameron, C., Jenett, B., Smith, M., & Gershenfeld, N. (2022). [Self-replicating hierarchical modular robotic swarms](https://cba.mit.edu/docs/papers/22.11.Nature.pdf). *Nature Communications Engineering*, 1, 1–10. | Robots that build |
+| MILAbot | Smith, M., Richard, P., Parra Rubio, A., & Gershenfeld, N. (2026). [Comparative evaluation of robotically assembled discrete lattice systems for sustainable construction](https://cba.mit.edu/docs/papers/26.04.Smith.Voxels.pdf). *Automation in Construction*, 187, 106952. | Actuation, Transmissions |
+| NASA ARMADAS | Gregg, C. E., Catanoso, D., Formoso, O. I. B., Kostitsyna, I., Ochalek, M. E., Olatunde, T. J., Park, I. W., Sebastianelli, F. M., Taylor, E. M., Trinh, G. T., & Cheung, K. C. (2024). [Ultralight, strong, and self-reprogrammable mechanical metamaterials](https://doi.org/10.1126/scirobotics.adi2746). *Science Robotics*, 9(86). | Compliance, Structures, Robots that build |
+| ARMADAS precision | Gregg, C. E., & Cheung, K. C. (2024). [Precision in assembled discrete lattice space structures for next-generation ISAM applications](https://ntrs.nasa.gov/citations/20240000666). *IEEE Aerospace Conference*. | Transmissions, Linkages |
+| ARMADAS, next steps | Ritter, M. K., Bokhari, I., Gloyd, J. T., Woodson, J. W., Adriaanse, D. S., & Gregg, C. E. [Robotic infrastructure construction and maintenance systems for the Moon, Mars, and other missions](https://ntrs.nasa.gov/api/citations/20250010156/downloads/ASCE_295.pdf). NASA Ames / M3 Engineering. | Robots that build |
+| Thesis (deep dive) | Smith, M. (2026). [Scalable robotic voxel construction](https://cba.mit.edu/docs/theses/26.09.Smith.pdf) [Doctoral thesis, MIT Center for Bits and Atoms]. | Any theme |
+
+More: [CBA papers](https://cba.mit.edu/docs/papers/index.html) · [CBA theses](https://cba.mit.edu/docs/theses/index.html)
+
 *Images credited to MIT News / MIT Center for Bits and Atoms and NASA. Used for classroom instruction.*
