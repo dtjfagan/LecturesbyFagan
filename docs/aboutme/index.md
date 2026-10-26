@@ -55,7 +55,7 @@ That project is a good example of what I hope you learn here: the same skills th
 ## Courses
 
 - **MEGR 2156 / 2157**, including the 3D lab
-- **Machine Design**
+- **Manufacturing Systems**
 - Guest sessions such as [Teach Me Robotics](../Lectures/Intro2Robotics/index.md) in Introduction to Robotics
 
 ## How to reach me
