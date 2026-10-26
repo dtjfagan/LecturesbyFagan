@@ -2,7 +2,7 @@
 
 *Intro to Robotics · Mechanical Aspects · 75-minute session*
 
-Today the roles flip. I build things for a living, but I am not a roboticist. Your team's job is to teach me one mechanical piece of how robots work, using a strange and wonderful case study: robots that build structures far bigger than themselves.
+Today the roles flip. I design and build hardware for a living, but I am not a roboticist. Your team's job is to teach me one mechanical piece of how robots work, using a strange and wonderful case study: robots that build structures far bigger than themselves.
 
 > **How can a small robot build something larger than itself? I don't know. Teach me.**
 
