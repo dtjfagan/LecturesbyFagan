@@ -151,7 +151,24 @@ Newer voxels pass power and data from one unit to the next. Robots built from st
 
 ## Team worksheet: teach Terence your theme
 
-**Team deck:** <a href="https://docs.google.com/presentation/d/1rtB_HWYR3vgVQjfgdPKjgGyzTZzczim0/edit" target="_blank" rel="noopener">Open the Teach Me Robotics team deck</a> and go to your team's slide.
+<div class="deck-panel">
+  <div class="deck-cta">
+    <p class="deck-eyebrow">Shared team deck</p>
+    <p class="deck-title">Find your team's slide and start building.</p>
+    <a class="deck-btn" href="https://docs.google.com/presentation/d/1rtB_HWYR3vgVQjfgdPKjgGyzTZzczim0/edit" target="_blank" rel="noopener">Open the team deck &#8599;</a>
+    <p class="deck-note">Opens in a new tab. Edit only your team's slide.</p>
+  </div>
+  <div class="deck-qrs">
+    <figure class="deck-qr">
+      <a href="https://docs.google.com/presentation/d/1rtB_HWYR3vgVQjfgdPKjgGyzTZzczim0/edit" target="_blank" rel="noopener"><img src="images/qr-team-deck.png" alt="QR code linking to the shared team deck"></a>
+      <figcaption>Team deck</figcaption>
+    </figure>
+    <figure class="deck-qr">
+      <a href="https://dtjfagan.github.io/LecturesbyFagan/Lectures/Intro2Robotics/" target="_blank" rel="noopener"><img src="images/qr-lecture-page.png" alt="QR code linking to this lecture page"></a>
+      <figcaption>This page</figcaption>
+    </figure>
+  </div>
+</div>
 
 You have 30 minutes to build one slide in the shared deck. Assume your audience is a fabrication expert who knows how to make parts but not how robots move.
 
