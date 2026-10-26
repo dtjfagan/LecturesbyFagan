@@ -1,0 +1,42 @@
+/* ---------- Faint engineering-grid background (light + dark) ---------- */
+:root { --grid-line: rgba(0, 0, 0, 0.06); --grid-size: 32px; }
+[data-md-color-scheme="slate"] { --grid-line: rgba(255, 255, 255, 0.06); }
+.md-main {
+  background-image:
+    linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+  background-size: var(--grid-size) var(--grid-size);
+}
+
+/* ---------- Photo slideshow ---------- */
+.slideshow { position: relative; margin: 1.5em 0; }
+.slideshow .slides {
+  display: flex; overflow-x: auto; scroll-snap-type: x mandatory;
+  scroll-behavior: smooth; border-radius: 6px;
+  background: var(--md-code-bg-color);
+}
+.slideshow figure {
+  flex: 0 0 100%; scroll-snap-align: center; margin: 0;
+  display: flex; flex-direction: column; align-items: center;
+}
+.slideshow figure img {
+  height: min(70vh, 560px); width: 100%; object-fit: contain; display: block;
+}
+.slideshow figcaption {
+  font-size: 0.75rem; padding: 0.6em 1em 0.9em; text-align: center;
+  color: var(--md-default-fg-color--light); max-width: 60ch;
+}
+.slideshow .ss-btn {
+  position: absolute; top: 40%; transform: translateY(-50%);
+  border: 0; border-radius: 50%; width: 2.4rem; height: 2.4rem;
+  font-size: 1.3rem; line-height: 1; cursor: pointer;
+  background: var(--md-primary-fg-color); color: var(--md-primary-bg-color);
+  opacity: 0.85;
+}
+.slideshow .ss-btn:hover, .slideshow .ss-btn:focus-visible { opacity: 1; }
+.slideshow .ss-prev { left: 0.5rem; }
+.slideshow .ss-next { right: 0.5rem; }
+.slideshow .ss-count {
+  text-align: center; font-size: 0.7rem; font-variant-numeric: tabular-nums;
+  color: var(--md-default-fg-color--light); margin-top: 0.3em;
+}

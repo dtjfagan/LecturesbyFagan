@@ -16,3 +16,9 @@ nav:
     - Lectures/Intro2Robotics/index.md
 
 
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/slideshow.js

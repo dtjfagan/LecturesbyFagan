@@ -28,6 +28,42 @@ Today the roles flip. I design and build hardware for a living, but I am not a r
 
 ---
 
+## Why voxels? A personal note
+
+I was enthralled when I first saw these voxel systems in person at the MIT Center for Bits and Atoms exhibit at FAB26 in Boston, and honestly, I have always been enthralled by this approach. It is how biology works. A ribosome is tiny, yet it builds proteins from a small set of standard parts, the amino acids. Cells build tissues, and tissues build whole organisms many times larger than any single builder. Voxel robots borrow that idea: small, simple machines placing simple, identical parts to make something far larger than themselves.
+
+<div class="slideshow" markdown="0">
+  <div class="slides">
+    <figure>
+      <img src="images/voxel-exhibit-selfie.jpg" alt="Terence Fagan at the MIT CBA voxel exhibit, with voxel-built go-karts and a black voxel table behind him" loading="lazy">
+      <figcaption>Me at the MIT Center for Bits and Atoms voxel exhibit, FAB26 Boston. Behind me: go-karts and a table built from voxels.</figcaption>
+    </figure>
+    <figure>
+      <img src="images/voxel-assembly-systems.jpg" alt="Voxel Assembly Systems sign beside two robots working on top of a wood and black voxel bridge" loading="lazy">
+      <figcaption>Voxel Assembly Systems: two assembler robots standing on the bridge they are building.</figcaption>
+    </figure>
+    <figure>
+      <img src="images/voxel-black-lattice.jpg" alt="Close-up of a black lattice block made of interlocking voxels" loading="lazy">
+      <figcaption>Close-up of black lattice voxels. Each cell is light and open, yet the assembled block is stiff.</figcaption>
+    </figure>
+    <figure>
+      <img src="images/voxel-white-bench.jpg" alt="White 3D-printed voxels assembled into a bench-like structure on two legs" loading="lazy">
+      <figcaption>White voxels assembled into a bench. The same small part repeats to make legs, span, and deck.</figcaption>
+    </figure>
+    <figure>
+      <img src="images/voxel-wall-arch.jpg" alt="A voxel wall with a doorway, framing a tall column built from wooden voxels" loading="lazy">
+      <figcaption>A voxel wall and doorway framing a tall column of wooden voxels. Different materials, same building logic.</figcaption>
+    </figure>
+  </div>
+  <button class="ss-btn ss-prev" type="button" aria-label="Previous photo">&#8249;</button>
+  <button class="ss-btn ss-next" type="button" aria-label="Next photo">&#8250;</button>
+  <div class="ss-count" aria-live="polite">1 / 5</div>
+</div>
+
+*Photos: Terence Fagan.*
+
+---
+
 ## Fact sheet: robots that build things bigger than themselves
 
 Instead of making a large machine in one piece, build it from many small, identical lattice blocks called **voxels**, and let small robots do the assembly. The work comes from MIT's Center for Bits and Atoms (CBA) and NASA.
