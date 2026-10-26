@@ -132,14 +132,14 @@ You have 30 minutes to build one slide in the shared deck. Assume your audience 
 
 | # | Theme | Teams | Starter question |
 |---|---|---|---|
-| 1 | Actuation | 1A, 1B | What actuator does a small robot need to carry and place parts over and over? How do power and weight limit it? |
-| 2 | Transmissions | 2A, 2B | How do you get precise, repeatable motion from a cheap, small motor? |
-| 3 | Linkages and kinematics | 3A, 3B | How many degrees of freedom does a robot need to step across a lattice and place a voxel? |
-| 4 | End effectors | 4A, 4B | Why might the gripper be designed together with the parts it handles? |
-| 5 | Locomotion | 5A, 5B | What changes when a robot walks on the structure it is building instead of on the ground? |
-| 6 | Structures and materials | 6A, 6B | How can many small, light pieces make a large structure stiff? |
-| 7 | Compliance and soft robotics | 7A, 7B | When is flexible better than rigid, for example when placing parts that aren't perfectly aligned? |
-| 8 | Robots that build | 8A, 8B | How can a robot build something larger than itself, and what limits how big it can get? |
+| 1 | Actuation | 1A, 1B | If you were choosing how to power a robot that carries parts across a structure all day, what would you weigh, and what would you sacrifice? |
+| 2 | Transmissions | 2A, 2B | Where should precision come from: the motor, the gears, or the structure the robot walks on? Make the case for your choice. |
+| 3 | Linkages and kinematics | 3A, 3B | What happens to a robot's design as you add or remove joints? Where is the sweet spot between simple and capable, and how would you find it? |
+| 4 | End effectors | 4A, 4B | Should you design the robot around the parts or the parts around the robot? What does each choice make easy, and what does it make hard? |
+| 5 | Locomotion | 5A, 5B | Wheels, legs, or inchworm: how does the ground a robot moves on shape the way it moves? What would change if that ground were moving, unfinished, or in space? |
+| 6 | Structures and materials | 6A, 6B | Why build something big out of many small pieces instead of one large one? Where does that idea win, and where does it fail? |
+| 7 | Compliance and soft robotics | 7A, 7B | Engineers usually fight "slop" in a machine. When might building flexibility in on purpose make a robot better, and what does it cost? |
+| 8 | Robots that build | 8A, 8B | Nature builds organisms far larger than any single cell. What could robot builders borrow from biology, and what might never transfer? |
 
 ---
 
