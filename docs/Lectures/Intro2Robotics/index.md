@@ -172,11 +172,13 @@ Newer voxels pass power and data from one unit to the next. Robots built from st
 
 You have 30 minutes to build one slide in the shared deck. Assume your audience is a fabrication expert who knows how to make parts but not how robots move.
 
+Every team covers **two robots**: one you choose (prompt 3) and one assigned to you (prompt 5). Comparing them is the point.
+
 1. **What is it?** One plain-English sentence. Define any jargon you use.
 2. **How does it work mechanically?** One diagram or sketch. A phone photo of a hand sketch is fine.
-3. **Real robot example.** Pick any robot that is *not* on this page. Name it, add an image, say what it uses.
+3. **Outside robot (your choice).** Pick any robot other than BILL-E, ARMADAS, or MILAbot, such as a Roomba, a factory arm, or a Mars rover. Name it, add an image, say how it uses your theme.
 4. **The tradeoff.** What do designers gain, and what do they give up?
-5. **Voxel robot connection.** Use the voxel robot assigned to your team (see below). Where does your theme show up in it, or fail to show up?
+5. **Your assigned voxel robot.** Use the voxel robot named on your team's slide (BILL-E, ARMADAS, or MILAbot). Where does your theme show up in it, or fail to show up?
 6. **Your question for Terence.** What should a fabricator understand about your theme?
 
 ### How teams form
